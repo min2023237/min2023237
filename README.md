@@ -12,8 +12,6 @@
 
 </p>
 
-<!--stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min2023237&show_icons=true&theme=flag-india)
 
 ### 🌱 I’m currently learning ...
 #### Week 1~4
@@ -79,3 +77,6 @@
 ##### Improve your skills through collaborative projects
 - Plan the services you want to develop autonomously and implement the features you want based on collaboration
 
+
+<!--stats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min2023237&show_icons=true&theme=flag-india)
