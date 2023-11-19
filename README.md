@@ -40,6 +40,12 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
+##### Understanding and building cohesively with the web and Spring Boot 
+- Web development fundamentals such as HTML and CSS
+- Utilizing databases
+- Implement simple services with Spring Boot
+- Deploy services using AWS
+
 #### Week 8~13
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
@@ -47,6 +53,10 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
+
+##### Deploy a complete, stable service based on Spring Boot
+- Gain knowledge of backend development, including RESTful APIs
+- Learn algorithmic techniques for testing your code
 
 #### Week 14~19
 <p>
@@ -56,9 +66,16 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 </p>
 
+##### Understand and apply better service structures to your projects
+- Gain knowledge about Devops, including Git Workflow, Docker, CI/CD, etc.
+- Collaborate in teams based on selected topics to implement targeted features.
+
 #### Week 20~25
 <p>
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
+
+##### Improve your skills through collaborative projects
+- Plan the services you want to develop autonomously and implement the features you want based on collaboration
 
