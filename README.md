@@ -1,3 +1,5 @@
+<a href="mailto:min2023237@gmail.com"><img src="https://img.shields.io/badge/min2023237@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:min2023237@gmail.com"/></a>
+
 ### Hi there 👋
 
 <!--
