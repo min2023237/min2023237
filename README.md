@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
+##### Start collaborating and mastering Java with Git & GitHub
+ - Git & Github Basics 
+ - Implementing text-based applications with Java
+ - Solve basic algorithmic problems
 
 #### Week 5~7
 <p>
