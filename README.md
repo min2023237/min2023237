@@ -3,7 +3,7 @@
 <p>
 <a href="mailto:min2023237@gmail.com"><img src="https://img.shields.io/badge/min2023237@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:min2023237@gmail.com"/></a>
 <!--notion-->
-<a href="https://lemon-termite-b1a.notion.site/c18fdbbbb4f740559692eede6d23fe71?pvs=4"><img src="https://img.shields.io/badge/min2023237@gmail.com-EA4335?style=flat-square&logo=&logoColor=white&link=mailto:min2023237@gmail.com"/></a>
+<a href="https://lemon-termite-b1a.notion.site/c18fdbbbb4f740559692eede6d23fe71?pvs=4" target="_blank"><img src="https://img.shields.io/badge/min2023237's notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 <!--인사말-->
