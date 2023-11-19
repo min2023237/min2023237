@@ -8,6 +8,10 @@
 
 <!--인사말-->
 ### Hi there 👋 
+Hi! I'm a new developer who just started studying 🚀. My goal is to become a great backend developer. 
+
+I enjoy playing badminton and swimming. ⛰ 🏄
+I want to develop all beautiful things ✨
 <p>
 
 </p>
